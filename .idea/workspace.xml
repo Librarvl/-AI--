@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5148fe13-fca2-49f1-8e79-83738d194132" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/sub_Weighted.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/BaseLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/BaseLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/新手-二手车价格预测.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/新手-二手车价格预测.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/analyse_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/analyse_data.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,72 +37,6 @@
     <SUITE FILE_PATH="coverage/_$BaseLine.coverage" NAME="BaseLine Coverage Results" MODIFIED="1589811733053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/_$analyse_data.coverage" NAME="analyse_data Coverage Results" MODIFIED="1589815915441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1867668625">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.16" value="4" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="2" />
-          <entry key="py" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="36" />
-          <entry key="py" value="732" />
-          <entry key="txt" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="768" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/analyse_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/BaseLine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="35" selection-start-line="35" selection-end-line="63" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -90,91 +44,28 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>3600</find>
-      <find>TestA_data</find>
-      <find>StratifiedKFold</find>
-      <find>n_estimators</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/BaseLine.py" />
-        <option value="$PROJECT_DIR$/Code/BaseLine.py" />
-        <option value="$PROJECT_DIR$/Code/analyse_data.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1934" />
-    <option name="height" value="1047" />
-  </component>
+  <component name="ProjectId" id="1c6aHsrcHiSvihL3i1JYAC4tEhQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="新手-二手车价格预测" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新手-二手车价格预测" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新手-二手车价格预测" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新手-二手车价格预测" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新手-二手车价格预测" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新手-二手车价格预测" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新手-二手车价格预测" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新手-二手车价格预测" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-              <item name="used_car_train_20200313" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="G:/移动研究院/AI_Demo/keras" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.analyse_data">
     <configuration name="BaseLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -242,6 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589467772861</updated>
+      <workItem from="1589851412996" duration="8077000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;测试 BaseLine&quot;">
       <created>1589553228582</created>
@@ -253,41 +145,77 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2710779" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32858709" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.26840982" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;测试 BaseLine&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;测试 BaseLine&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1589875053756">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1589875053756" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589875318885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589875318885" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1589875694726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1589875694726" />
+    <state width="1237" height="106" key="GridCell.Tab.0.bottom" timestamp="1589879531236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589879531236" />
+    <state width="1237" height="106" key="GridCell.Tab.0.center" timestamp="1589879531236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589879531236" />
+    <state width="1237" height="106" key="GridCell.Tab.0.left" timestamp="1589879531236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589879531236" />
+    <state width="1237" height="106" key="GridCell.Tab.0.right" timestamp="1589879531236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589879531236" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1589878924876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589878924876" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1589878924876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589878924876" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1589878924876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589878924876" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1589878924876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589878924876" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589879176637">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589879176637" />
+    <state x="520" y="71" width="302" height="538" key="ftp.server.browser" timestamp="1589851903428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="71" width="302" height="538" key="ftp.server.browser/0.0.1280.680@0.0.1280.680" timestamp="1589851903428" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,80 +228,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BaseLine.py" />
-    <entry file="file://$PROJECT_DIR$/Code/sub_Weighted.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/used_car_train_20200313/used_car_train_20200313.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="1692">
-          <caret line="94" column="134" selection-start-line="94" selection-start-column="130" selection-end-line="94" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/envs/keras-yolo/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="638" column="8" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/envs/keras-yolo/Lib/site-packages/xgboost/sklearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2444">
-          <caret line="493" column="30" selection-start-line="493" selection-start-column="29" selection-end-line="493" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/BaseLine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="35" selection-start-line="35" selection-end-line="63" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/移动研究院/AI_Demo/keras/深度学习框架之Keras零基础快速入门学习教程/1.keras实现线性回归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/移动研究院/AI_Demo/keras/深度学习框架之Keras零基础快速入门学习教程/3.MNIST数据集分类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/envs/keras-yolo/Lib/site-packages/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="1177" selection-start-line="1177" selection-end-line="1177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/envs/keras-yolo/Lib/site-packages/keras/engine/training_arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="212" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/analyse_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/predict_used_car_price$analyse_data.coverage" NAME="analyse_data Coverage Results" MODIFIED="1589879531226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
   </component>
 </project>
