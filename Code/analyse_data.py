@@ -42,12 +42,22 @@ X_data = X_data.fillna(-1)
 X_data = X_data.values
 Y_data = Y_data.values
 
-mean = Y_data.mean(axis=0)
-print(mean)
+# mean = Y_data.mean(axis=0)
+# print(mean)
+
+x_mean = X_data.mean(axis=0)
+X_data -= x_mean
+x_std = X_data.std(axis=0)
+X_data /= x_std
+
+# y_mean = Y_data.mean()
+# Y_data -= y_mean
+# y_std = Y_data.std()
+# Y_data /= y_std
 
 model = Sequential([
-    Dense(units=32, input_dim=18, activation='sigmoid'),
-    Dense(units=1, activation='sigmoid'),
+    Dense(units=32, input_dim=18, activation='relu'),
+    Dense(units=1),
 ])
 
 # 定义优化器
